@@ -2,11 +2,11 @@
 My name is ***Muhammad Nur Alim***, currently am studying in Universitas Negeri Semarang, in mathematics major. i love doing code, drawing, and make 3d model.
 I am really interested in Data science and web developer. 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Limeless04&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=limeless04&show_icons=true&theme=radical)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Limeless04)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=limeless04)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Limeless04&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limeless04&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Limeless04/Limeless04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
