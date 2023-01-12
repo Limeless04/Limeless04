@@ -1,8 +1,8 @@
 ## Hi there 👋,
 
-My name is ***Muhammad Nur Alim***, ***Lim*** for shorts. Currently I am studying in Universitas Negeri Semarang, Semarang, Central Java, Indonesia :: . My Major is Mathematics. i love doing code, drawing, and make 3d model. I am really interested in Data science, Data analytic and Web developer. I self-taught myself how to code by wathcing free online course, reading documentation, practicing by make some project, and surfing the stackoverflow **LOL**.
+My name is ***Muhammad Nur Alim***, ***Lim*** for shorts 👍. Currently I am studying in Universitas Negeri Semarang, Semarang, Central Java, Indonesia 🔖. My Major is Mathematics📑. i love doing code 💻, drawing 📝, and make 3d model 🗽. I am really interested in Data science, Data analytic and Web developer. I self-taught myself how to code by wathcing free online course, reading documentation, practicing by make some project, and surfing the stackoverflow 😆.
 
-## Social Media Related:
+## 📫 Social Media Related:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-nur-alim-a31380168/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/home)
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white?)](https://www.kaggle.com/limunnes)
@@ -23,7 +23,7 @@ My name is ***Muhammad Nur Alim***, ***Lim*** for shorts. Currently I am studyin
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-### Data Science & Analytics
+### 👨‍🔬 Data Science & Analytics
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -33,14 +33,14 @@ My name is ***Muhammad Nur Alim***, ***Lim*** for shorts. Currently I am studyin
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
-### Other
+### ⚙️Other
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
 
-## Tool:
+## 🧰 Tool:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 <!--
