@@ -1,11 +1,11 @@
 ## Hi there 👋,
 
-My name is ***Muhammad Nur Alim***, ***Lim*** for shorts. Currently I am studying in Universitas Negeri Semarang, Semarang, Central Java, Indonesia. My Major is Mathematics. i love doing code, drawing, and make 3d model. I am really interested in Data science, Data analytic and Web developer. I self-taught myself how to code by wathcing free online course, reading documentation, practicing by make some project, and surfing the stackoverflow **LOL**.
+My name is ***Muhammad Nur Alim***, ***Lim*** for shorts. Currently I am studying in Universitas Negeri Semarang, Semarang, Central Java, Indonesia :: . My Major is Mathematics. i love doing code, drawing, and make 3d model. I am really interested in Data science, Data analytic and Web developer. I self-taught myself how to code by wathcing free online course, reading documentation, practicing by make some project, and surfing the stackoverflow **LOL**.
 
 ## Social Media Related:
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white?link=)
-![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-nur-alim-a31380168/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/home)
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white?)](https://www.kaggle.com/limunnes)
 
 ## My Current Skill Are:
 ### 💻 Front-end stuff 
