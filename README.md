@@ -7,7 +7,7 @@ My name is ***Muhammad Nur Alim***, ***Lim*** for shorts 👍. Currently I am st
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/home)
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white?)](https://www.kaggle.com/limunnes)
 
-## My Current Skill Are:
+## 📊 My Current Skill Are:
 ### 💻 Front-end stuff 
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
