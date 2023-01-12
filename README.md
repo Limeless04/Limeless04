@@ -2,6 +2,8 @@
 My name is ***Muhammad Nur Alim***, currently am studying in Universitas Negeri Semarang, in mathematics major. i love doing code, drawing, and make 3d model.
 I am really interested in Data science and web developer. 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Limeless04&show_icons=true&theme=radical)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Limeless04)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Limeless04&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
