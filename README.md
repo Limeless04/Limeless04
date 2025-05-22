@@ -1,6 +1,15 @@
 ## Hi there 👋,
 
-My name is ***Muhammad Nur Alim***, ***Lim*** for shorts 👍. Currently I am studying in Universitas Negeri Semarang, Semarang, Central Java, Indonesia 🔖. My Major is Mathematics📑. i love doing code 💻, drawing 📝, and make 3d model 🗽. I am really interested in Data science, Data analytic and Web developer. I self-taught myself how to code by wathcing free online course, reading documentation, practicing by make some project, and surfing the stackoverflow 😆.
+Hi! I'm Muhammad Nur Alim — you can call me Lim 👍.
+I'm a passionate Web Developer with a strong focus on frontend development, primarily working with React.js/Next.js, and occasionally Vue.js.
+
+My main programming languages of choice are JavaScript and Python, but I'm actively expanding my toolkit by revisiting C/C++, Java, Go, and possibly exploring Rust in the near future.
+
+Currently, I'm also deepening my skills as a backend engineer, working mainly with Node.js and PostgreSQL, with occasional use of Flask (Python).
+
+Beyond coding, I enjoy drawing, 3D modeling, and diving into the world of data science and data analytics.
+
+I'm a self-taught developer — I learned by watching free online courses, reading documentation, building projects, and spending a lot of time on Stack Overflow 😆.
 
 ## 📫 Social Media Related:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-nur-alim-a31380168/)
