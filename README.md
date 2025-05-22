@@ -9,7 +9,7 @@ Currently, I'm also deepening my skills as a backend engineer, working mainly wi
 
 Beyond coding, I enjoy drawing, 3D modeling, and diving into the world of data science and data analytics.
 
-I'm a self-taught developer — I learned by watching free online courses, reading documentation, building projects, and spending a lot of time on Stack Overflow 😆.
+I'm a self-taught developer — I learned by watching free online courses and online paid course, reading documentation, building projects, and spending a lot of time on Stack Overflow 😆.
 
 ## 📫 Social Media Related:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-nur-alim-a31380168/)
